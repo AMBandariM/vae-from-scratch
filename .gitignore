@@ -1,3 +1,6 @@
+# CSV files are chunky so we ignore them in git.
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

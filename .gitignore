@@ -1,5 +1,5 @@
-# CSV files are chunky so we ignore them in git.
-*.csv
+# Custom
+pytorch-cache/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
